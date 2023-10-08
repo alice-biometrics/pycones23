@@ -1,4 +1,4 @@
-# Monadas en Python: Menos Excepciones y Más Tipado en Nuestro Código 
+# Mónadas en Python: Menos Excepciones y Más Tipado en Nuestro Código 
 
 La gestión de los errores es una parte muy importante de nuestros sistemas. En Python, como en muchos lenguajes de programación, tenemos disponibles las excepciones. Pero, ¿existen formas más elegantes para encapsular los resultados de nuestras funciones?
 
@@ -13,5 +13,5 @@ En este [link](slides.pdf) tenéis disponible una versión en pdf de las slides.
 
 ## Links 
 
-* [meiga](https://github.com/alice-biometrics/meiga)
-* [petisco](https://github.com/alice-biometrics/petisco)
+* [meiga 🧙](https://github.com/alice-biometrics/meiga)
+* [petisco 🍪](https://github.com/alice-biometrics/petisco)
